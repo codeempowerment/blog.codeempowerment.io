@@ -16,16 +16,13 @@
 title: Code Empowerment
 email: pedrohenriqueacruz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Transforme-se numa programadora de sucesso e tenha uma carreira 
+  promissora em um dos mercados de trabalho que mais crescem no mundo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.codeempowerment.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: code.empowerment
 github_username: codeempowerment 
-facebook:
-  - username: Code Empowerment 
-  instance: facebook.com/code-Empowerment-195318547754185
+facebook_username: code-Empowerment-195318547754185
 
 # Build settings
 markdown: kramdown
