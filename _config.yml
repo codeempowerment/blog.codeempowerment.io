@@ -21,9 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.codeempowerment.com.br" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: code-Empowerment-195318547754185
 instagram_username: code.empowerment
 github_username: codeempowerment 
+facebook:
+  - username: Code Empowerment 
+  instance: facebook.com/code-Empowerment-195318547754185
 
 # Build settings
 markdown: kramdown
