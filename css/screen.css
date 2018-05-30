@@ -1034,7 +1034,7 @@ body>footer>.inner, .post-footer>.inner {
     text-align: left;
     margin: 0 auto;
     padding: 0 30px;
-    max-width: 680px
+    max-width: 960px
 }
 body>footer #btn_feed, .post-footer #btn_feed {
     position: absolute;
@@ -1063,7 +1063,7 @@ body>footer div.vcard, .post-footer div.vcard {
     *vertical-align: auto;
     zoom: 1;
     *display: inline;
-    width: 50%;
+    width: 35%;
     min-height: 100px
 }
 body>footer div.vcard span.given-name, body>footer div.vcard span.family-name, .post-footer div.vcard span.given-name, .post-footer div.vcard span.family-name {
@@ -1131,16 +1131,18 @@ body>footer .details h4, .post-footer .details h4 {
 body>footer .details h4 a, .post-footer .details h4 a {
     color: #21272d
 }
-body>footer #user_bio, .post-footer #user_bio {
+body>footer #user_bio, #social_column, .post-footer #user_bio, .post-footer #social_column {
     display: -moz-inline-stack;
     display: inline-block;
     vertical-align: middle;
     *vertical-align: auto;
     zoom: 1;
     *display: inline;
-    width: 49%
+    width: 30%
 }
-body>footer #user_bio .inner, .post-footer #user_bio .inner {
+body>footer #user_bio .inner, .post-footer #user_bio .inner,
+#social_column .inner,
+.post-footer #social_column .inner {
     padding-left: 20px;
     line-height: 1.6em;
     color: #a4adb6
