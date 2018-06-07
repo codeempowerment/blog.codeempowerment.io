@@ -1063,7 +1063,7 @@ body>footer div.vcard, .post-footer div.vcard {
     *vertical-align: auto;
     zoom: 1;
     *display: inline;
-    width: 35%;
+    width: 36%;
     min-height: 100px
 }
 body>footer div.vcard span.given-name, body>footer div.vcard span.family-name, .post-footer div.vcard span.given-name, .post-footer div.vcard span.family-name {
