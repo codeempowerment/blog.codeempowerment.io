@@ -35,6 +35,6 @@ Outro ponto importante é estar sempre em ação. Não adianta ler assistir 10 c
 
 Tire sempre um tempo para exercitar o conteúdo aprendido. Fazendo isso, você experimentará muito mais produtividade, e vai absorver muito mais conteúdo em muito menos tempo.
 
-Se você quer ter acesso a um conteúdo exclusivo e focado em te ensinar programação do absoluto zero de forma prática, não perca tempo e garanta [aqui](//codeempowerment.com.br) a  sua vaga.
+Se você quer ter acesso a um conteúdo exclusivo e focado em te ensinar programação do absoluto zero de forma prática, não perca tempo e [garanta já](//codeempowerment.com.br) a sua vaga!
 As primeiras 20 pessoas que se inscreverem, além do curso, terão 2 conferências por mês para tirar dúvidas e até mesmo alavancar seus conhecimentos de programação.
 
